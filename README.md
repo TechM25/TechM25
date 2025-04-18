@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechM25
+- 👋 Hi, I’m @IM11001
 - 👀 I’m interested computer science
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
